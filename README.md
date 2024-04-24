@@ -1,4 +1,4 @@
-## demo# Welcome 🖐 to the Calculator
+# Welcome 🖐 to the Calculator
 
 This project is a basic calculator created using HTML, CSS, and JavaScript. It provides standard arithmetic functions such as addition, subtraction, multiplication, and division. The calculator's interface is designed using CSS for styling, and JavaScript is used to handle user inputs and perform calculations.
 
